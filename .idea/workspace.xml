@@ -75,11 +75,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="goat_latin.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="goat_latin.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/goat_latin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="285">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="defaning_ip_address.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/defaning_ip_address.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -100,16 +110,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="365">
               <caret line="78" column="30" lean-forward="false" selection-start-line="78" selection-start-column="30" selection-end-line="78" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="symmetric_tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symmetric_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -161,6 +161,7 @@
         <option value="$PROJECT_DIR$/repeated_substring.py" />
         <option value="$PROJECT_DIR$/reverse_words_in_a_string.py" />
         <option value="$PROJECT_DIR$/goat_latin.py" />
+        <option value="$PROJECT_DIR$/defaning_ip_address.py" />
       </list>
     </option>
   </component>
@@ -208,24 +209,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.reverse_words_in_a_string">
-    <configuration default="false" name="binary_search_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="coding" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary_search_tree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.goat_latin">
     <configuration default="false" name="max_number_of_balloons" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,6 +274,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="coding" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverse_words_in_a_string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="goat_latin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="coding" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/goat_latin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -447,19 +448,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.hungry_rabbit" />
-      <item index="1" class="java.lang.String" itemvalue="Python.binary_search_tree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.max_number_of_balloons" />
-      <item index="3" class="java.lang.String" itemvalue="Python.number_of_segments_in_a_string" />
-      <item index="4" class="java.lang.String" itemvalue="Python.repeated_substring" />
-      <item index="5" class="java.lang.String" itemvalue="Python.reverse_words_in_a_string" />
+      <item index="1" class="java.lang.String" itemvalue="Python.max_number_of_balloons" />
+      <item index="2" class="java.lang.String" itemvalue="Python.number_of_segments_in_a_string" />
+      <item index="3" class="java.lang.String" itemvalue="Python.repeated_substring" />
+      <item index="4" class="java.lang.String" itemvalue="Python.reverse_words_in_a_string" />
+      <item index="5" class="java.lang.String" itemvalue="Python.goat_latin" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.reverse_words_in_a_string" />
-        <item index="1" class="java.lang.String" itemvalue="Python.repeated_substring" />
-        <item index="2" class="java.lang.String" itemvalue="Python.number_of_segments_in_a_string" />
-        <item index="3" class="java.lang.String" itemvalue="Python.max_number_of_balloons" />
-        <item index="4" class="java.lang.String" itemvalue="Python.binary_search_tree" />
+        <item index="0" class="java.lang.String" itemvalue="Python.goat_latin" />
+        <item index="1" class="java.lang.String" itemvalue="Python.reverse_words_in_a_string" />
+        <item index="2" class="java.lang.String" itemvalue="Python.repeated_substring" />
+        <item index="3" class="java.lang.String" itemvalue="Python.number_of_segments_in_a_string" />
+        <item index="4" class="java.lang.String" itemvalue="Python.max_number_of_balloons" />
       </list>
     </recent_temporary>
   </component>
@@ -507,14 +508,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/first_recur_num.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/reverse_a_string.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -902,8 +895,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/goat_latin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/defaning_ip_address.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding />
         </state>
       </provider>
