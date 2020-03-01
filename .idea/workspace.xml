@@ -55,11 +55,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="best_time_to_buy_and_sell_stock_II.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="best_time_to_buy_and_sell_stock_II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/best_time_to_buy_and_sell_stock_II.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="best_time_to_buy_and_sell_stocks_I.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/best_time_to_buy_and_sell_stocks_I.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -100,16 +110,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="574">
               <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="delete_node_in_a_linked_list.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/delete_node_in_a_linked_list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -166,6 +166,7 @@
         <option value="$PROJECT_DIR$/snail_2D_array.py" />
         <option value="$PROJECT_DIR$/.idea/maximum_depth_of_binary_tree.py" />
         <option value="$PROJECT_DIR$/best_time_to_buy_and_sell_stock_II.py" />
+        <option value="$PROJECT_DIR$/.idea/best_time_to_buy_and_sell_stocks_I.py" />
       </list>
     </option>
   </component>
@@ -511,14 +512,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/majority_element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/roman_to_integer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -908,6 +901,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/best_time_to_buy_and_sell_stocks_I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
