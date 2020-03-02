@@ -7,9 +7,6 @@ def two_sum(arr, target):
                 return [i, j]
     return None
 
-print(two_sum([2,5,5,11], 10))
-# return [1, 2]
-
 # O(n^2) - time complexity
 # O(1) - space complexity
 
@@ -23,9 +20,6 @@ def two_sum_2(nums, target):
         if complement in hash_map:
             if hash_map[complement] != j:
               return [j,hash_map[complement]]
-
-print(two_sum_2([3,2,4], 6))
-# return [1,2]
 
 # O(n) - time complexity
 # O(n) - space complexity
