@@ -1,7 +1,6 @@
 # https://leetcode.com/problems/single-number/
 
 def single_number(arr):
-    # looping through, check if the number is in another list
     seen = []
     for i in range(len(arr)):
         if arr[i] not in seen:
@@ -9,9 +8,6 @@ def single_number(arr):
         else:
             seen.remove(arr[i])
     return seen[0]
-
-
-print(single_number([2, 2, 1]))
 
 
 # O(n^2) - time complexity
@@ -27,8 +23,6 @@ def single_number_2(arr):
         if v == 1:
             return k
 
-
-print(single_number_2([2, 2, 1]))
 
 # O(n) - time complexity
 # O(n) - space complexity
