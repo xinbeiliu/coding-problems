@@ -17,7 +17,7 @@ def two_sum_2(nums, target):
     hash_map = {}
     for i in range(len(nums)):
         hash_map[nums[i]] = i
-    # {3:0, 2:1, 4:2}
+
     for j in range(len(nums)):
         complement = target - nums[j]
         if complement in hash_map:
@@ -25,6 +25,7 @@ def two_sum_2(nums, target):
               return [j,hash_map[complement]]
 
 print(two_sum_2([3,2,4], 6))
+# return [1,2]
 
 # O(n) - time complexity
 # O(n) - space complexity
