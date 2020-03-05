@@ -15,11 +15,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="strStr().py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="strStr().py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/strStr().py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+            <state relative-caret-position="247">
+              <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reverse_a_string.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reverse_a_string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="longest_common_prefix.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/longest_common_prefix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -97,6 +117,7 @@
         <option value="$PROJECT_DIR$/max_subarray.py" />
         <option value="$PROJECT_DIR$/reverse_linked_list.py" />
         <option value="$PROJECT_DIR$/strStr().py" />
+        <option value="$PROJECT_DIR$/longest_common_prefix.py" />
       </list>
     </option>
   </component>
@@ -144,24 +165,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.reverse_linked_list">
-    <configuration default="false" name="split_a_string_in_balanced_strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="coding" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/split_a_string_in_balanced_strings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.strStr()">
     <configuration default="false" name="snail_2D_array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,6 +230,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="coding" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverse_linked_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="strStr()" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="coding" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strStr().py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -383,19 +404,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.hungry_rabbit" />
-      <item index="1" class="java.lang.String" itemvalue="Python.split_a_string_in_balanced_strings" />
-      <item index="2" class="java.lang.String" itemvalue="Python.snail_2D_array" />
-      <item index="3" class="java.lang.String" itemvalue="Python.maximum_depth_of_binary_tree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.two_sum" />
-      <item index="5" class="java.lang.String" itemvalue="Python.reverse_linked_list" />
+      <item index="1" class="java.lang.String" itemvalue="Python.snail_2D_array" />
+      <item index="2" class="java.lang.String" itemvalue="Python.maximum_depth_of_binary_tree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.two_sum" />
+      <item index="4" class="java.lang.String" itemvalue="Python.reverse_linked_list" />
+      <item index="5" class="java.lang.String" itemvalue="Python.strStr()" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.reverse_linked_list" />
-        <item index="1" class="java.lang.String" itemvalue="Python.two_sum" />
-        <item index="2" class="java.lang.String" itemvalue="Python.maximum_depth_of_binary_tree" />
-        <item index="3" class="java.lang.String" itemvalue="Python.snail_2D_array" />
-        <item index="4" class="java.lang.String" itemvalue="Python.split_a_string_in_balanced_strings" />
+        <item index="0" class="java.lang.String" itemvalue="Python.strStr()" />
+        <item index="1" class="java.lang.String" itemvalue="Python.reverse_linked_list" />
+        <item index="2" class="java.lang.String" itemvalue="Python.two_sum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.maximum_depth_of_binary_tree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.snail_2D_array" />
       </list>
     </recent_temporary>
   </component>
@@ -446,14 +467,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/merge_sorted_lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="30" lean-forward="false" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hungry_rabbit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -751,7 +764,7 @@
         <state relative-caret-position="190">
           <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -806,14 +819,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reverse_a_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/reverse_words_in_a_string.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -856,8 +861,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/strStr().py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+        <state relative-caret-position="247">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reverse_a_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/longest_common_prefix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
