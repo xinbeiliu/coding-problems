@@ -35,8 +35,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="longest_common_prefix.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="longest_common_prefix.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/longest_common_prefix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="count_and_say.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/count_and_say.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
               <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
@@ -67,7 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hungry_rabbit.py" />
         <option value="$PROJECT_DIR$/sum_of_pairs.py" />
         <option value="$PROJECT_DIR$/merge_sorted_lists.py" />
         <option value="$PROJECT_DIR$/first_recur_num.py" />
@@ -118,6 +127,7 @@
         <option value="$PROJECT_DIR$/reverse_linked_list.py" />
         <option value="$PROJECT_DIR$/strStr().py" />
         <option value="$PROJECT_DIR$/longest_common_prefix.py" />
+        <option value="$PROJECT_DIR$/count_and_say.py" />
       </list>
     </option>
   </component>
@@ -467,13 +477,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hungry_rabbit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hungry_rabbit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -876,6 +879,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/longest_common_prefix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count_and_say.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
