@@ -29,6 +29,8 @@ def merge_meeting(meetings):
     return merged
 
 
-print(merge_meeting([(0,1), (3,5), (4,8), (10,12), (9,10)]))
+print(merge_meeting([(1, 10), (2, 6), (3, 5), (7, 9)]))
+
+# O(nlogn) time, O(n) space
 
 
