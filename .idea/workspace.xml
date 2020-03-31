@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee2f5eb0-c271-4371-875e-3eb84357b99d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/binary_tree_inorder_traversal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/implement_stack_using_queues.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/closet_binary_search_tree_value.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +18,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="implement_stack_using_queues.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="implement_stack_using_queues.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/implement_stack_using_queues.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="456">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="intersection_of_two_arrays.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intersection_of_two_arrays.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-608">
+              <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="closet_binary_search_tree_value.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/closet_binary_search_tree_value.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -44,9 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/trailing_zeros.py" />
-        <option value="$PROJECT_DIR$/merge_sorted_arr.py" />
-        <option value="$PROJECT_DIR$/valid_palindrome.py" />
         <option value="$PROJECT_DIR$/delete_node_in_a_linked_list.py" />
         <option value="$PROJECT_DIR$/.idea/implemention_linked_list.py" />
         <option value="$PROJECT_DIR$/linked_list_cycle.py" />
@@ -95,6 +111,9 @@
         <option value="$PROJECT_DIR$/two_sum_test.py" />
         <option value="$PROJECT_DIR$/two_sum_input_BST.py" />
         <option value="$PROJECT_DIR$/binary_tree_inorder_traversal.py" />
+        <option value="$PROJECT_DIR$/implement_stack_using_queues.py" />
+        <option value="$PROJECT_DIR$/intersection_of_two_arrays.py" />
+        <option value="$PROJECT_DIR$/closet_binary_search_tree_value.py" />
       </list>
     </option>
   </component>
@@ -145,41 +164,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.two_sum_input_BST">
-    <configuration default="false" name="reverse_words_in_place" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="coding" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverse_words_in_place.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="two_sum_input_array_is_sorted" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="coding" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/two_sum_input_array_is_sorted.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.intersection_of_two_arrays">
     <configuration default="false" name="two_sum_less_than_k" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,6 +212,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="coding" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/two_sum_input_BST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="implement_stack_using_queues" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="coding" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/implement_stack_using_queues.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="intersection_of_two_arrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="coding" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intersection_of_two_arrays.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -384,19 +403,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.hungry_rabbit" />
-      <item index="1" class="java.lang.String" itemvalue="Python.reverse_words_in_place" />
-      <item index="2" class="java.lang.String" itemvalue="Python.two_sum_input_array_is_sorted" />
-      <item index="3" class="java.lang.String" itemvalue="Python.two_sum_less_than_k" />
-      <item index="4" class="java.lang.String" itemvalue="Python.reorder_data_in_log_files" />
-      <item index="5" class="java.lang.String" itemvalue="Python.two_sum_input_BST" />
+      <item index="1" class="java.lang.String" itemvalue="Python.two_sum_less_than_k" />
+      <item index="2" class="java.lang.String" itemvalue="Python.reorder_data_in_log_files" />
+      <item index="3" class="java.lang.String" itemvalue="Python.two_sum_input_BST" />
+      <item index="4" class="java.lang.String" itemvalue="Python.implement_stack_using_queues" />
+      <item index="5" class="java.lang.String" itemvalue="Python.intersection_of_two_arrays" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.two_sum_input_BST" />
-        <item index="1" class="java.lang.String" itemvalue="Python.reorder_data_in_log_files" />
-        <item index="2" class="java.lang.String" itemvalue="Python.two_sum_less_than_k" />
-        <item index="3" class="java.lang.String" itemvalue="Python.two_sum_input_array_is_sorted" />
-        <item index="4" class="java.lang.String" itemvalue="Python.reverse_words_in_place" />
+        <item index="0" class="java.lang.String" itemvalue="Python.intersection_of_two_arrays" />
+        <item index="1" class="java.lang.String" itemvalue="Python.implement_stack_using_queues" />
+        <item index="2" class="java.lang.String" itemvalue="Python.two_sum_input_BST" />
+        <item index="3" class="java.lang.String" itemvalue="Python.reorder_data_in_log_files" />
+        <item index="4" class="java.lang.String" itemvalue="Python.two_sum_less_than_k" />
       </list>
     </recent_temporary>
   </component>
@@ -425,9 +444,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2607313" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2607313" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3227345" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3227345" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -764,8 +783,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/implement_stack_using_queues.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="456">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intersection_of_two_arrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-608">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/closet_binary_search_tree_value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
