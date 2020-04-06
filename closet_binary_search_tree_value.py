@@ -33,3 +33,9 @@ class Solution():
                 cur = cur.right
         return v
 
+    def closet_value_binary_search(root, target):
+        closet = root.val
+        while root:
+            closet = min(root.val, closet, key=lambda x:abs(x-target))
+            root = root.left if target < root.val else root.right
+        return closet
