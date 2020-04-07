@@ -27,3 +27,31 @@ class Solution(object):
 
 # O(n) - time complexity (touch each node in the tree)
 # O(h) - space complexity (height of the tree)
+
+    def isSymmetric_iterative(self, root):
+        from collections import deque
+
+        if root is None:
+            return True
+
+        queue = deque([root])
+        queue.append(root)
+
+        while queue:
+            left = queue.pop()
+            right = queue.pop()
+
+            if left is None and right is None:
+                continue
+            elif left is None or right is None:
+                return False
+            elif left.val != right.val:
+                return False
+
+            queue.append(left.left)
+            queue.append(right.right)
+
+            queue.append(left.right)
+            queue.append(right.left)
+
+        return True
