@@ -1,3 +1,9 @@
+class Node():
+	def __init__(self,data):
+		self.data = data
+		self.left = None
+		self.right = None
+
 class BinarySearchTree():
 	def __init__(self):
 		self.root = None
@@ -35,7 +41,6 @@ class BinarySearchTree():
 		return None
 
 	def BFS(self):
-		# [10,5,19,1,20]
 		current = self.root
 		result = []
 		queue = []
@@ -71,14 +76,14 @@ class BinarySearchTree():
 			self.inorder_traversal(node.left, result)
 		result.append(node.data)
 		if node.right:
-			self.ineorder_traversal(node.right, result)
+			self.inorder_traversal(node.right, result)
 		return result
 
 	def postorder_traversal(self, node, result):
 		if node.left:
 			self.postorder_traversal(node.left, result)
 		if node.right:
-			self.posteorder_traversal(node.right, result)
+			self.postorder_traversal(node.right, result)
 		result.append(node.data)
 		return result
 
