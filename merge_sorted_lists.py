@@ -35,7 +35,7 @@ def Merge_sorted_lists_2(lst_1, lst_2):
     return result + lst_1[i:] + lst_2[j:]
 
 
-print(Merge_sorted_lists_2([0, 3, 4, 31], [1, 4, 6, 30, 999]))
+print(Merge_sorted_lists_2([1,3], [2]))
 
 # O (a + b) -> time complexity
 # O(3 * a) -> space complexity
