@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee2f5eb0-c271-4371-875e-3eb84357b99d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sock_merchant.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/first_bad_version.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/merge_sorted_lists.py" afterPath="$PROJECT_DIR$/merge_sorted_lists.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,11 +58,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sock_merchant.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sock_merchant.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sock_merchant.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="304">
+              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="first_bad_version.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/first_bad_version.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -94,7 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.idea/max_number_of_balloons.py" />
         <option value="$PROJECT_DIR$/number_of_segments_in_a_string.py" />
         <option value="$PROJECT_DIR$/repeated_substring.py" />
         <option value="$PROJECT_DIR$/reverse_words_in_a_string.py" />
@@ -145,14 +153,15 @@
         <option value="$PROJECT_DIR$/merge_sorted_lists.py" />
         <option value="$PROJECT_DIR$/multi_set.py" />
         <option value="$PROJECT_DIR$/sock_merchant.py" />
+        <option value="$PROJECT_DIR$/first_bad_version.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="220" />
-    <option name="y" value="923" />
+    <option name="x" value="104" />
+    <option name="y" value="71" />
     <option name="width" value="1280" />
-    <option name="height" value="723" />
+    <option name="height" value="711" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -195,24 +204,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.multi_set">
-    <configuration default="false" name="intersection_of_two_arrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="coding" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intersection_of_two_arrays.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.sock_merchant">
     <configuration default="false" name="binary_search_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,6 +269,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="coding" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multi_set.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sock_merchant" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="coding" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sock_merchant.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -434,19 +443,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.hungry_rabbit" />
-      <item index="1" class="java.lang.String" itemvalue="Python.intersection_of_two_arrays" />
-      <item index="2" class="java.lang.String" itemvalue="Python.binary_search_tree" />
-      <item index="3" class="java.lang.String" itemvalue="Python.license_key_formatting" />
-      <item index="4" class="java.lang.String" itemvalue="Python.merge_sorted_lists" />
-      <item index="5" class="java.lang.String" itemvalue="Python.multi_set" />
+      <item index="1" class="java.lang.String" itemvalue="Python.binary_search_tree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.license_key_formatting" />
+      <item index="3" class="java.lang.String" itemvalue="Python.merge_sorted_lists" />
+      <item index="4" class="java.lang.String" itemvalue="Python.multi_set" />
+      <item index="5" class="java.lang.String" itemvalue="Python.sock_merchant" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.multi_set" />
-        <item index="1" class="java.lang.String" itemvalue="Python.merge_sorted_lists" />
-        <item index="2" class="java.lang.String" itemvalue="Python.license_key_formatting" />
-        <item index="3" class="java.lang.String" itemvalue="Python.binary_search_tree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.intersection_of_two_arrays" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sock_merchant" />
+        <item index="1" class="java.lang.String" itemvalue="Python.multi_set" />
+        <item index="2" class="java.lang.String" itemvalue="Python.merge_sorted_lists" />
+        <item index="3" class="java.lang.String" itemvalue="Python.license_key_formatting" />
+        <item index="4" class="java.lang.String" itemvalue="Python.binary_search_tree" />
       </list>
     </recent_temporary>
   </component>
@@ -467,7 +476,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="220" y="923" width="1280" height="723" extended-state="0" />
+    <frame x="104" y="71" width="1280" height="711" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2065131" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -475,9 +484,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32329637" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32329637" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3169572" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3231018" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -643,8 +652,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sock_merchant.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="304">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_bad_version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>
