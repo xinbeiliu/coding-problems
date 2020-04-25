@@ -1,0 +1,26 @@
+# Given a non-empty string s, you may delete at most one character. Judge
+# whether you can make it a palindrome.
+
+# Input: "aba"
+# Output: True
+#
+# Input: "abca"
+# Output: True
+# Explanation: You could delete the character 'c'.
+
+# brute force solution is to delete each char and see if the rest of the s is a panlindrom
+# time complexity is O(N^2) and space is O(N)
+
+def validPalindrome(s):
+    """
+    :type s: str
+    :rtype: bool
+    """
+    l, r = 0, len(s) - 1
+    while l < r:
+        if s[l] == s[r]:
+            l += 1
+            r -= 1
+        else:
+            return s[l:r] == s[l:r][::-1] or s[l + 1:r + 1] == s[l + 1:r + 1][::-1]
+    return True
